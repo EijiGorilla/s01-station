@@ -41,7 +41,7 @@ function MapDisplay() {
       ground="world-elevation"
       viewingMode="local"
       zoom="18"
-      center="120.9953698, 14.6136055"
+      center="120.9844920, 14.6223536"
       onarcgisViewReadyChange={(event) => {
         setSceneView(event.target);
       }}
